@@ -17,7 +17,9 @@ h2 {
 
 p {
     color: darkolivegreen;
-    margin-left: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+    max-width: 60%;
     font-family: 'Rubik', sans-serif;
 }
 
