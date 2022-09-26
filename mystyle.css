@@ -1,0 +1,40 @@
+body {
+    background-color: moccasin;
+}
+
+h1 {
+    color: dimgray;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 24px;
+}
+
+h2 {
+    color: slategray;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 24px;
+}
+
+p {
+    color: darkolivegreen;
+    font-size: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
+    font-family: 'Rubik', sans-serif;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+    height: 50%;
+    max-height: 20%;
+}
+
+.resize {
+    width: 400px;
+    height: auto;
+}
