@@ -6,31 +6,32 @@ h1 {
     color: dimgray;
     font-weight: bold;
     text-align: center;
-    font-size: 12px;
+    font-size: 24px;
     font-family: 'EB Garamond', serif;
 }
 
 h2 {
     color: slategray;
     text-align: center;
-    font-size: 12px;
+    font-size: 24px;
     font-family: 'EB Garamond', serif;
 }
 
 h3 {
     color: forestgreen;
     text-align: center;
-    font-size: 12px;
+    font-size: 24px;
     font-family: 'EB Garamond', serif;
 }
 
 h4 {
     color: darkgreen;
-    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
     font-weight: bold;
-    margin-left: 8%;
     font-family: 'EB Garamond', serif;
-    font-size: 12px;
+    font-size: 24px;
 }
 
 .hangingindent {
@@ -40,10 +41,11 @@ h4 {
 
 p {
     color: darkolivegreen;
-    margin-left: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
     text-indent: 4%;
-    max-width: 80%;
-    font-size: 12px;
+    font-size: 24px;
     font-family: 'EB Garamond', serif;
 }
 
@@ -52,4 +54,9 @@ img {
     margin-right: auto;
     width: 50%;
     display: block;
+}
+
+.resize {
+    width: 600px;
+    height: auto;
 }
