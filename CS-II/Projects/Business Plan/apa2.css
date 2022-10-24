@@ -1,0 +1,62 @@
+body {
+    background-color: moccasin;
+}
+
+h1 {
+    color: dimgray;
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'EB Garamond', serif;
+}
+
+h2 {
+    color: slategray;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'EB Garamond', serif;
+}
+
+h3 {
+    color: forestgreen;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'EB Garamond', serif;
+}
+
+h4 {
+    color: darkgreen;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
+    font-weight: bold;
+    font-family: 'EB Garamond', serif;
+    font-size: 24px;
+}
+
+.hangingindent {
+    padding-left: 22px ;
+    text-indent: -22px ;
+}
+
+p {
+    color: darkolivegreen;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
+    text-indent: 4%;
+    font-size: 24px;
+    font-family: 'EB Garamond', serif;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+}
+
+.resize {
+    width: 600px;
+    height: auto;
+}
